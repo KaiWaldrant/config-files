@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "lint-format": "biome check --write"
+  },
+}
